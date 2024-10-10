@@ -1,0 +1,11 @@
+
+site_name: "Your Project Name"
+theme:
+  name: 'material'
+
+nav:
+  - Introduction: index.md
+  - User Guide:
+      - Overview: introduction.md
+      - Installation: installation.md
+      - API Reference: api_reference.md
