@@ -1,0 +1,16 @@
+theme: minima
+title: Clitest Documentation
+description: Project Documentation Site
+baseurl: "/Clitest"
+url: "https://kbs0799.github.io"
+
+# 네비게이션 메뉴 추가
+nav:
+  - title: "Introduction"
+    url: "/"
+  - title: "Installation"
+    url: "/docs/installation.html"
+  - title: "User Guide"
+    url: "/docs/user_guide.html"
+  - title: "API Reference"
+    url: "/docs/api_reference.html"
