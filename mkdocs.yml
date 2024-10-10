@@ -6,6 +6,6 @@ theme:
 nav:
   - Introduction: index.md
   - User Guide:
-      - Overview: introduction.md
       - Installation: installation.md
+      - Examples: examples.md
       - API Reference: api_reference.md
