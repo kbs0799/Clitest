@@ -8,14 +8,14 @@ nav:
   - User Guide:
       - Introduction : introduction.md
       - Installation: installation.md
-  - API Reference:
-      - Python Modules: 
-          - clifin.asset package: clifin_asset.md
   - Tutorials:
       - Overview: overview.md
       - Python Introduction: python_introduction.md
       - Cash Flow Projection: cash_flow_projection.md
       - Risk Factor: risk_factor.md
       - Asset Valuation under Climate Scenarios: asset_valuation.md
+  - API Reference:
+      - Python Modules: 
+          - clifin.asset package: clifin_asset.md
       
       
