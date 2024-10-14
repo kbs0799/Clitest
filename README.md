@@ -6,7 +6,7 @@ The framework is divided into three main parts.
 3. Datasets for various types of assets and climate scenario analysis to perform CliFin infra.
 
 # Getting started
-pip install .
+    pip install .
 
 # Documentation
 - [Online](https://kbs0799.github.io/Clitest/)
